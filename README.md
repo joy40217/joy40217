@@ -1,6 +1,6 @@
-## <a href="/"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/blob-wave.gif"></a> Hi there!
+## <a href="https://github.com/joy40217"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/blob-wave.gif"></a> Hi there!
 
-### I'm Rong. Come from Taiwan. <a href="/"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/meow_code.gif"></a>
+### I'm Rong. Come from Taiwan. <a href="https://github.com/joy40217"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/meow_code.gif"></a>
 
 
 
@@ -17,7 +17,7 @@
 - Game (Especially Minecraft)
 
 ### 🛠️Currently Working :
-- Minecraft datapacks & maps
+- Minecraft datapacks & maps ➡️ <a href="https://sra-studio.github.io">My team</a>
 
 ---
 
@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/1-repos-per-language.svg"></a>
-  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/2-most-commit-language.svg"></a>
-  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/3-stats.svg"></a>
-  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/4-productive-time.svg"></a>
+  <a href="https://github.com/joy40217"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/1-repos-per-language.svg"></a>
+  <a href="https://github.com/joy40217"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/2-most-commit-language.svg"></a>
+  <a href="https://github.com/joy40217"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/3-stats.svg"></a>
+  <a href="https://github.com/joy40217"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/4-productive-time.svg"></a>
 </p>
 
 <p align="center">
