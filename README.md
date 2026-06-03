@@ -1,6 +1,6 @@
-## <img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/blob-wave.gif"> Hi there!
+## <a href="/"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/blob-wave.gif"></a> Hi there!
 
-### I'm Rong. Come from Taiwan. <img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/meow_code.gif">
+### I'm Rong. Come from Taiwan. <a href="/"><img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/meow_code.gif"></a>
 
 
 
@@ -26,27 +26,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/2-most-commit-language.svg">
-  <img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/4-productive-time.svg">
+  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/1-repos-per-language.svg"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/2-most-commit-language.svg"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/3-stats.svg"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/joy40217/joy40217/main/profile-summary-card-output/default/4-productive-time.svg"></a>
 </p>
 
 <p align="center">
  <img width="680" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdjNnZseGVuYzl5dW1mbmdzdGF2Y25jN3ZhYnI3Y3RvaXhxYWgxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 </p>
-
-<!--
-**joy40217/joy40217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
