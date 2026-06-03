@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Rong
+## <img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/blob-wave.gif"> Hi there!
+
+### I'm Rong. Come from Taiwan. <img height="30" src="https://github.com/joy40217/joy40217/blob/main/assets/meow_code.gif">
 
 
 
