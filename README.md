@@ -18,6 +18,7 @@
 
 ### 🛠️Currently Working :
 - Minecraft datapacks & maps ➡️ <a href="https://sra-studio.github.io">My team</a>
+- Automatically fetch TWSE data using Github Actions ➡️ <a href="https://joy40217.github.io/TWSE-daily">TWSE-daily</a>
 
 ---
 
